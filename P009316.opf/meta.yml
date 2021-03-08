@@ -6,4 +6,9 @@ source_metadata:
 
     '
   author: ''
-  volumes: {}
+  volumes:
+    5bab10034aa2424799de870e24117ac4:
+      image_group_id: I2PD19336
+      title: ''
+      volume_number: 1
+      total_pages: 214
